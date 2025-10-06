@@ -52,6 +52,8 @@ python hexacloner.py
 # Session file to export: mysession.pkl
 ```
 
+![Test Run](https://github.com/TrixSec/HexaCloner/blob/main/testrun/testrun.png)
+
 ## Advanced Features
 - **Session Resume**: If interrupted, simply re-run with the same session file to continue.
 - **Progress Bar**: See real-time progress with tqdm.
@@ -72,3 +74,4 @@ Pull requests and suggestions are welcome!
 
 ## Disclaimer
 Use HexaCloner responsibly. Always respect website terms of service and robots.txt.
+
